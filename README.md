@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artizticamit
 - 👀 I’m interested in Web Development, AI/ML, and quantum computing.
-- 🌱 I’m currently learning Competitive Programming and Web Development.
+- 🌱 I’m currently engaged in Competitive Programming and Web Development.
 - 💞️ I’m looking to collaborate on projects in Web Development.
 - 📫 How to reach me. This is my mail amitku65391@gmail.com.
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="">    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">    <img src="https://img.shields.io/badge/Npm-DC322F?style=for-the-badge&logo=npm&logoColor=white" alt="">    <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="">
 
 
-<img height="28px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="">    <img height="28px" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="">
+<img height="28px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="">
     
     
  
@@ -47,6 +47,8 @@
 </p>
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=artizticamit.githubProfile)
+
+[![@artizticamit's Holopin board](https://holopin.me/artizticamit)](https://holopin.io/@artizticamit)
 
 
 <!---
