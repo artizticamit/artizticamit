@@ -29,17 +29,10 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
   </a>
   
-  <a href="https://twitter.com/mit30317782">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"/>
-  </a>
-  
   <a href="https://www.reddit.com/user/cheems-12">
     <img alt="Reddit" src="https://img.shields.io/badge/Reddit--_.svg?style=social&logo=reddit"/>
   </a>
   
-  <a href="https://www.facebook.com/profile.php?id=100008176065215">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook"/>
-  </a>
   <a href="https://www.instagram.com/artistic_amit12/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"/>
   </a>
