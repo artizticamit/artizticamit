@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artizticamit
 - 👀 I’m interested in Web Development, AI/ML, and quantum computing.
-- 🌱 I’m currently engaged in Competitive Programming and Web Development.
-- 💞️ I’m looking to collaborate on projects in Web Development.
+- 🌱 I’m currently engaged in DevOps and Software Engineering.
+- 💞️ I’m looking to collaborate on projects in Development and Machine Learning/Deep Learning.
 - 📫 How to reach me. This is my mail amitku65391@gmail.com.
 
 <h2>🔧 Technologies I've used & 🤹 Skills I've acquired </h2>
